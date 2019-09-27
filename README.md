@@ -37,7 +37,21 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(17).pdf" style="text-decoration:none;"> The Emperor's New Mind: Concerning Computers, Minds, and The Laws of Physics </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(18).pdf" style="text-decoration:none;"> The Nature of Space and Time </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(18).pdf" style="text-decoration:none;"> The Nature of Space and Time (with Stephen Hawking) </a></b></li>
+ 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(19).pdf" style="text-decoration:none;">The Road to Reality: A Complete Guide to the Laws of the Universe </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(20).pdf" style="text-decoration:none;">White Mars: The Mind Set Free (with Brian Aldiss)</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(21).pdf" style="text-decoration:none;"> Techniques of Differential Topology in Relativity </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(22).pdf" style="text-decoration:none;"> Spinors and Space-Time: Volume 1, Two-Spinor Calculus and Relativistic Fields (with Wolfgang Rindler, 1987) </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(23).pdf" style="text-decoration:none;"> Spinors and Space-Time: Volume 2, Spinor and Twistor Methods in Space-Time Geometry (with Wolfgang Rindler, 1988) </a></b></li>
+ 
+ 
+ 
+ 
  
  
   
