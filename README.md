@@ -22,8 +22,32 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(13).pdf" style="text-decoration:none;"> Space-time and Cosmology</a></b></li>
   
-
-
-
-
 </ul>
+
+</br>
+
+<p> <strong> Books: </strong> </p>
+
+<ul>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(14).pdf" style="text-decoration:none;">Cycles of Time: An Extraordinary New View of the Universe </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(15).pdf" style="text-decoration:none;">Fashion, Faith, and Fantasy in the New Physics of the Universe </a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(16).pdf" style="text-decoration:none;">Shadows of the Mind: A Search for the Missing Science of Consciousness</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(17).pdf" style="text-decoration:none;"> The Emperor's New Mind: Concerning Computers, Minds, and The Laws of Physics </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(18).pdf" style="text-decoration:none;"> The Nature of Space and Time </a></b></li>
+ 
+ 
+  
+</ul>
+
+
+
+
+
+
+
+
+
