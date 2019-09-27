@@ -18,7 +18,7 @@
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(11).pdf" style="text-decoration:none;">On the Gravitization of Quantum Mechanics 1: Quantum State Reduction </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(12).pdf" style="text-decoration:none;">Before the big bang: An outrageous new perspective and its implications for particle physics</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(12).PDF" style="text-decoration:none;">Before the big bang: An outrageous new perspective and its implications for particle physics</a></b></li>
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(13).pdf" style="text-decoration:none;"> Space-time and Cosmology</a></b></li>
   
