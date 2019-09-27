@@ -45,9 +45,9 @@
 
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(21).pdf" style="text-decoration:none;"> Techniques of Differential Topology in Relativity </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(22).pdf" style="text-decoration:none;"> Spinors and Space-Time: Volume 1, Two-Spinor Calculus and Relativistic Fields (with Wolfgang Rindler, 1987) </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(22).pdf" style="text-decoration:none;"> Spinors and Space-Time: Volume 1, Two-Spinor Calculus and Relativistic Fields (with Wolfgang Rindler) </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(23).pdf" style="text-decoration:none;"> Spinors and Space-Time: Volume 2, Spinor and Twistor Methods in Space-Time Geometry (with Wolfgang Rindler, 1988) </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(23).pdf" style="text-decoration:none;"> Spinors and Space-Time: Volume 2, Spinor and Twistor Methods in Space-Time Geometry (with Wolfgang Rindler) </a></b></li>
  
  
  
