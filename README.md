@@ -191,13 +191,7 @@
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(13).pdf" style="text-decoration:none;"> Space-time and Cosmology</a></li>
   
-</ul>
 
-</br>
-
-<p> <strong> Books: </strong> </p>
-
-<ul>
 <li><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(14).pdf" style="text-decoration:none;">Cycles of Time: An Extraordinary New View of the Universe </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Roger-Penrose-Research-Papers/blob/master/pnr(15).pdf" style="text-decoration:none;">Fashion, Faith, and Fantasy in the New Physics of the Universe </a></li>
